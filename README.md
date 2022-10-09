@@ -1,6 +1,7 @@
 # Projeto de Infraestrutura como código 
 ## Script bash de criação de estrutura de usuários, diretórios e permissões no linux
-Script testado no Ubuntu 22.04 server
+Script testado no Ubuntu 22.04 server.
+
 Requisitos atendidos pelo script:
 - O dono de todos os diretórios criados será o usuário root;
 - Todos os usuários terão permissão total dentro do diretório **publico**;
